@@ -1,0 +1,2 @@
+# draughts
+tk draughts minimax
